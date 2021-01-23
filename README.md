@@ -1,3 +1,3 @@
 # Beginner-HTML-Workshop
 
-# Read Handout for more information
+Read Workshop plan for more info
